@@ -31,7 +31,7 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master  # Use "main" if your default branch is main
+          branch: main  # Use "main" if your default branch is main
           force: true
 
       # Deploy to GitHub Pages
