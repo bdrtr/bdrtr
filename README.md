@@ -3,8 +3,8 @@
 <h3 align="center">I am a software engineer in Türkiye.</h3>
 
 <div align="center">
- <img src="">
-<a href="https://www.bedirkaraabali.me/" style="">my web site</a>
+ <img src="web.png" style="width: 20px; height: 20px;">
+<a href="https://www.bedirkaraabali.me/"">my web site</a>
 </div>
 
 <img src="frontof.gif" alt="alt" style="width: 1366px; height:auto;">
