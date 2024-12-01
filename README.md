@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bedirkaraabali@gmail.com**
 
-- <img src="safe.png"> [send me private message]() 
+- <img src="safe.png" style="width:25px; height:25px;"> [send me private message](public-key) 
 
 
 
