@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bedirkaraabali@gmail.com**
 
-- <img src="safe.png" style="width:25px; height:25px;"> [send me private message](public-key) 
+- <img src="safe.png" style="width:25px; height:25px;"> [send me private message](https://github.com/bdrtr/bdrtr/issues/1) 
 
 
 
