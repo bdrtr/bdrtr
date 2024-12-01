@@ -1,7 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Bedir Tuğra Karaabalı</h1>
 <h3 align="center">I am a software engineer in Türkiye.</h3>
- <img src="frontof.gif" alt="alt" style="width: 1366px; height:auto;">
+
+<div align="center">
+ <img src="">
+<a href="https://www.bedirkaraabali.me/" style="">my web site</a>
+</div>
+
+<img src="frontof.gif" alt="alt" style="width: 1366px; height:auto;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdrtr&label=Profile%20views&color=0e75b6&style=flat" alt="bdrtr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdrtr" alt="bdrtr" /></a> </p>
