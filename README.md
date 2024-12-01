@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bedirkaraabali@gmail.com**
 
-- <img src="">send me private message 
+- <img src="safe.png"> [send me private message]() 
 
 
 
