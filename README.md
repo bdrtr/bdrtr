@@ -7,7 +7,6 @@
 <a href="https://www.bedirkaraabali.me/">my web site</a>
 </div>
 
-<img src="frontof.gif" alt="alt" style="width: 1366px; height:auto;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdrtr&label=Profile%20views&color=0e75b6&style=flat" alt="bdrtr" /> </p>
 
