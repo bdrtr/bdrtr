@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdrtr" alt="bdrtr" /></a> </p>
 
-- 🔭 I’m currently working on [3D modelling](https://github.com/bdrtr/GLFW-openGL)
+- 🔭 I love working on [3D modelling](https://github.com/bdrtr/GLFW-openGL)
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Algorithms**
+- 💬 Ask me about **FastApi**
 
 - 📫 How to reach me **bedirkaraabali@gmail.com**
 
