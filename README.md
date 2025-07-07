@@ -4,7 +4,7 @@
 
 <div align="center">
  <img src="web.png" style="width: 20px; height: 20px;">
-<a href="https://www.bedirkaraabali.me/">my web site</a>
+<a href="https://bdrtr.github.io/">my web site</a>
 </div>
 
 
