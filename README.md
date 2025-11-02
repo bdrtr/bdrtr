@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdrtr&label=Profile%20views&color=0e75b6&style=flat" alt="bdrtr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdrtr" alt="bdrtr" /></a> </p>
+
 
 - 🔭 I love working on [3D modelling](https://github.com/bdrtr/GLFW-openGL)
 
@@ -38,8 +38,7 @@
 
 
 <div align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bdrtr&show_icons=true&locale=en&layout=compact" alt="bdrtr" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=bdrtr&show_icons=true&locale=en" alt="bdrtr" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bdrtr&theme=dark)
