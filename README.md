@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **FastApi**
 
-- 📫 How to reach me **bedirkaraabali@gmail.com**
+- 📫 How to reach me **bedir@algorynth.com**
 
 - <img src="safe.png" style="width:25px; height:25px;"> [send me private message](https://github.com/bdrtr/bdrtr/issues/1) 
 
