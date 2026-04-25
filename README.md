@@ -43,12 +43,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,postgres,mongodb,sqlite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,rabbitmq,kafka&perline=10" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,androidstudio,postman,selenium&perline=10" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,kubernetes,gcp,linux,git&perline=10" />
   </a>
 </p>
 
