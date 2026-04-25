@@ -28,7 +28,7 @@
 
 - 🔭 Currently building **[Hush](https://github.com/bdrtr/Hush)** (an ultra-fast Go web framework) and **[Gizmo](https://github.com/bdrtr/Gizmo)** (a high-precision 3D engine in Rust).
 - ⚙️ Architecting the **Essence** spatial ecosystem for next-generation performance.
-- 🌱 Always learning and pushing the physical limits of **Go**, **Rust**, and **C++**.
+- 🌱 Always learning and pushing the physical limits of **Go** and **Rust**.
 - 💬 Ask me about **Systems Architecture, Zero-Allocation Patterns, and FastApi**.
 - 💌 Feel free to send me a [private message](https://github.com/bdrtr/bdrtr/issues/1).
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,cpp,c,python,java,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=go,rust,python,java,bash&perline=10" />
   </a>
 </p>
 <p align="center">
