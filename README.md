@@ -26,8 +26,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[Hush](https://github.com/bdrtr/Hush)**, an ultra-fast, zero-allocation Go web framework.
-- ⚙️ Architecting **Essence** & **Gizmo Engine**, high-precision 3D spatial engines in **Rust**.
+- 🔭 Currently building **[Hush](https://github.com/bdrtr/Hush)** (an ultra-fast Go web framework) and **[Gizmo](https://github.com/bdrtr/Gizmo)** (a high-precision 3D engine in Rust).
+- ⚙️ Architecting the **Essence** spatial ecosystem for next-generation performance.
 - 🌱 Always learning and pushing the physical limits of **Go**, **Rust**, and **C++**.
 - 💬 Ask me about **Systems Architecture, Zero-Allocation Patterns, and FastApi**.
 - 💌 Feel free to send me a [private message](https://github.com/bdrtr/bdrtr/issues/1).
