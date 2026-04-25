@@ -1,48 +1,113 @@
-
-<h1 align="center">Hi 👋, I'm Bedir Tuğra Karaabalı</h1>
-<h3 align="center">I am a software engineer in Türkiye.</h3>
-
+<!-- Typing Header -->
 <div align="center">
- <img src="web.png" style="width: 20px; height: 20px;">
-<a href="https://bdrtr.github.io/">my web site</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E95D3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bedir+Tu%C4%9Fra+Karaabal%C4%B1;Systems+Engineer+%7C+Go+%26+Rust;Architecting+High-Performance+Engines" alt="Typing SVG" />
+  </a>
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdrtr&label=Profile%20views&color=0e75b6&style=flat" alt="bdrtr" /> </p>
-
-
-
-- 🔭 I love working on [3D modelling](https://github.com/bdrtr/GLFW-openGL)
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **FastApi**
-
-- 📫 How to reach me **bedir@algorynth.com**
-
-- <img src="safe.png" style="width:25px; height:25px;"> [send me private message](https://github.com/bdrtr/bdrtr/issues/1) 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bedir tuğra karaabalı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedir tuğra karaabalı" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/xcompiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xcompiler" height="30" width="40" /></a>
-<a href="https://kaggle.com/parabasan189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parabasan189" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bitrogen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bitrogen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bedirkratos1818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bedirkratos1818" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Engineer based in Türkiye 🇹🇷</strong><br>
+  <em>Building the next generation of high-performance backend systems, web frameworks, and 3D spatial engines.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://bdrtr.github.io/">🌐 My Website</a> &nbsp;•&nbsp;
+  <a href="mailto:bedir@algorynth.com">📧 bedir@algorynth.com</a>
+</div>
 
+<br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bdrtr&show_icons=true&locale=en" alt="bdrtr" />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bdrtr&theme=dark)
-
-<img src="mentor.gif" alt="" style="width:1366px; height:auto;">
-
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=bdrtr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
+---
+
+### 🚀 About Me
+
+- 🔭 Currently building **[Hush](https://github.com/bdrtr/Hush)**, an ultra-fast, zero-allocation Go web framework.
+- ⚙️ Architecting **Essence** & **Gizmo Engine**, high-precision 3D spatial engines in **Rust**.
+- 🌱 Always learning and pushing the physical limits of **Go**, **Rust**, and **C++**.
+- 💬 Ask me about **Systems Architecture, Zero-Allocation Patterns, and FastApi**.
+- 💌 Feel free to send me a [private message](https://github.com/bdrtr/bdrtr/issues/1).
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,cpp,c,python,java,bash&perline=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,postgres,mongodb,sqlite&perline=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,androidstudio,postman,selenium&perline=10" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bdrtr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E95D3&icon_color=2E95D3" alt="bdrtr GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=bdrtr&theme=tokyonight&hide_border=true&background=0D1117&ring=2E95D3&fire=2E95D3&currStreakLabel=2E95D3" alt="bdrtr GitHub Streak" />
+</div>
+
+<br>
+
+<!-- Snake Animation generated by GitHub Actions -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bdrtr/bdrtr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bdrtr/bdrtr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bdrtr/bdrtr/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🏆 Highlighted Projects
+
+<p align="center">
+  <a href="https://github.com/bdrtr/Hush">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdrtr&repo=Hush&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E95D3&icon_color=2E95D3" alt="Hush Framework" />
+  </a>
+  <a href="https://github.com/algorynth/General-Back-End">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algorynth&repo=General-Back-End&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E95D3&icon_color=2E95D3" alt="General Back-End" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/bdrtr/GLFW-openGL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdrtr&repo=GLFW-openGL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E95D3&icon_color=2E95D3" alt="GLFW-openGL" />
+  </a>
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bedir-tu%C4%9Fra-karaabal%C4%B1-2675b31ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/xcompiler" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  <a href="https://kaggle.com/parabasan189" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.youtube.com/c/bitrogen" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.leetcode.com/bedirkratos1818" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
