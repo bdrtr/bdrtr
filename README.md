@@ -1,12 +1,12 @@
 <!-- Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E95D3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bedir+Tu%C4%9Fra+Karaabal%C4%B1;Systems+Engineer+%7C+Go+%26+Rust;Architecting+High-Performance+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E95D3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bedir+Tu%C4%9Fra+Karaabal%C4%B1;Systems+Engineer+%7C+Go+%26+Rust;Architecting+High-Performance+Engines" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <strong>Software Engineer based in Türkiye 🇹🇷</strong><br>
+  <strong>Systems Engineer based in Türkiye 🇹🇷</strong><br>
   <em>Building the next generation of high-performance backend systems, web frameworks, and 3D spatial engines.</em>
 </p>
 
@@ -27,9 +27,10 @@
 ### 🚀 About Me
 
 - 🔭 Currently building **[Hush](https://github.com/bdrtr/Hush)** (an ultra-fast Go web framework) and **[Gizmo](https://github.com/bdrtr/Gizmo)** (a high-precision 3D engine in Rust).
-- ⚙️ Architecting the **Essence** spatial ecosystem for next-generation performance.
+- ⚙️ Architecting the **[Essence](https://github.com/bdrtr/Essence)** spatial ecosystem for next-generation performance.
+- 🧳 Shipping a production travel booking platform with **FastAPI**, **Next.js** and **PostgreSQL**, including e-invoicing integration.
 - 🌱 Always learning and pushing the physical limits of **Go** and **Rust**.
-- 💬 Ask me about **Systems Architecture, Zero-Allocation Patterns, and FastApi**.
+- 💬 Ask me about **Systems Architecture, Zero-Allocation Patterns, and FastAPI**.
 - 💌 Feel free to send me a [private message](https://github.com/bdrtr/bdrtr/issues/1).
 
 ---
@@ -37,18 +38,27 @@
 ### 💻 Tech Stack & Tools
 
 <p align="center">
+  <strong>Languages</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,python,java,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=go,rust,c,cpp,zig,python,ts,java,dart,bash&perline=10" alt="Languages" />
   </a>
 </p>
 <p align="center">
+  <strong>Backend</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,rabbitmq,kafka,webgl&perline=10" />
+    <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,rabbitmq,kafka,nginx&perline=10" alt="Backend" />
   </a>
 </p>
 <p align="center">
+  <strong>Frontend & Mobile</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,kubernetes,gcp,linux,git&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,wasm,webgl&perline=10" alt="Frontend & Mobile" />
+  </a>
+</p>
+<p align="center">
+  <strong>Infra & AI</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gcp,linux,arch,pytorch,tensorflow&perline=10" alt="Infra & AI" />
   </a>
 </p>
 
@@ -85,8 +95,11 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/bdrtr/GLFW-openGL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdrtr&repo=GLFW-openGL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E95D3&icon_color=2E95D3" alt="GLFW-openGL" />
+  <a href="https://github.com/bdrtr/Gizmo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdrtr&repo=Gizmo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E95D3&icon_color=2E95D3" alt="Gizmo Engine" />
+  </a>
+  <a href="https://github.com/bdrtr/PryHUB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdrtr&repo=PryHUB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E95D3&icon_color=2E95D3" alt="PryHUB" />
   </a>
 </p>
 
@@ -98,7 +111,7 @@
   <a href="https://linkedin.com/in/bedir-tu%C4%9Fra-karaabal%C4%B1-2675b31ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/xcompiler" target="_blank">
+  <a href="https://stackoverflow.com/users/14311722/xcompiler" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
   </a>
   <a href="https://kaggle.com/parabasan189" target="_blank">
@@ -107,7 +120,7 @@
   <a href="https://www.youtube.com/c/bitrogen" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.leetcode.com/bedirkratos1818" target="_blank">
+  <a href="https://leetcode.com/u/bedirkratos1818/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
