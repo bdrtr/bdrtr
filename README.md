@@ -38,12 +38,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,cs,dotnet,python,java,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=go,rust,python,java,bash&perline=10" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,rabbitmq,kafka&perline=10" />
+    <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,rabbitmq,kafka,webgl&perline=10" />
   </a>
 </p>
 <p align="center">
