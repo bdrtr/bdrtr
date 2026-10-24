@@ -40,7 +40,7 @@
 <p align="center">
   <strong>Languages</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,c,cpp,zig,python,ts,java,dart,bash&perline=10" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=go,rust,c,zig,python,ts,java,dart,bash&perline=10" alt="Languages" />
   </a>
 </p>
 <p align="center">
